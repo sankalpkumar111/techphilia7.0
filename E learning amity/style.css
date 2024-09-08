@@ -1,0 +1,78 @@
+.card-body,
+p {
+    font-size: 20px;
+}
+footer {
+    color: white;
+    background-color: #333;
+    padding: 20px;
+    margin-top:100px;
+  }
+  
+  footer h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  footer p {
+    font-size: 14px;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li{
+    list-style: none;
+  }
+  footer ul li {
+    margin-bottom: 5px;
+ list-style: none;
+  }
+  
+  footer ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer ul li a:hover {
+    color: #ffcc00;
+  }
+  
+  footer .social-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  footer .social-icons li {
+    margin-right: 10px;
+  }
+  
+  footer .social-icons li:last-child {
+    margin-right: 0;
+  }
+  
+  footer .social-icons li a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    color: #333;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+  }
+  
+  footer .social-icons li a:hover {
+    background-color: #ffcc00;
+    color: white;
+  }
+  
+  footer .copy {
+    font-size: 12px;
+    text-align: center;
+  }
+  
